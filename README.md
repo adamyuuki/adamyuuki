@@ -1,7 +1,7 @@
 Hello There!
 
 I'm Adam Oyama, currently a dev student. Mostly studying full stack web development.
-I have master on Electrical Engeneering from UFSC - Brazil.
+I have master on Electrical Engineering from UFSC - Brazil.
 My current job is Proccess Analyst at WEG.
 
 <!---
